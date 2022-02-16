@@ -1,7 +1,7 @@
-* CollegeRanker India Internship 
+# CollegeRanker India Internship 
 
-# Domain : Data Science Development
+* Domain : Data Science Development
 
-# Name of Task Performed : Customer Segment Prediction
+* Name of Task Performed : Customer Segment Prediction
 
 
